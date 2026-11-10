@@ -228,7 +228,7 @@ Use this carefully, especially after a commit has already been shared.
 
 ---
 
-## My Learning Progress
+<!-- ## My Learning Progress
 
 - [x] Installed Git
 - [x] Configured Git identity
@@ -240,6 +240,6 @@ Use this carefully, especially after a commit has already been shared.
 
 **Repository:** Python-Journey
 
-**Learning phase:** Phase 0 — Development Environment & Tools
+**Learning phase:** Phase 0 — Development Environment & Tools -->
 
 *This cheatsheet will be updated as I learn more Git commands.*
