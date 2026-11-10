@@ -30,6 +30,7 @@ It helps developers:
 |---|---|
 | `git --version` | Checks the installed Git version |
 | `git init` | Initializes a Git repository |
+| `git clone <repository-url>` | Creates a local copy of a remote repository |
 | `git status` | Shows the current repository status |
 | `git add filename` | Stages a particular file |
 | `git add .` | Stages all changes in the current directory |
