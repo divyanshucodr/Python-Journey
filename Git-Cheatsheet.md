@@ -36,6 +36,7 @@ It helps developers:
 | `git add .` | Stages all changes in the current directory |
 | `git commit -m "message"` | Saves staged changes as a commit |
 | `git log` | Displays commit history |
+| `git rebase origin/main` | Reapply local commits on top of the latest remote branch |
 
 ### Example
 
